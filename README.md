@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @y0v1737
+- 😄 Personal accaunt
+- 👀 I’m interested in Embedded reverse engineering & Hardware developing
