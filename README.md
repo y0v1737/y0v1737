@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @y0v1737
 - 😄 Personal account
-- 👀 I’m interested in Embedded reverse engineering & Hardware developing
+- 👀 Researcher. Reverse engineer. Developer.
