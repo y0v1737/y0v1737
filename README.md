@@ -1,2 +1,2 @@
 - 😄 Personal account
-- 👀 Researcher. Reverse engineer. Developer.
+- 👀 Hardware Security Engineer
